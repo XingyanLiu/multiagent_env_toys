@@ -11,3 +11,7 @@ Changes include:
 
 ![guard_prisoner](imgs/guard_prisoner.png)
 
+To launch the visualization (random policy), 
+```shell
+streamlit run guard_prisoner/test_env.py
+```
