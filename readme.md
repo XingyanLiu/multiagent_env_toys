@@ -9,5 +9,5 @@ Changes include:
 2. Environment tested using random policy.
 3. Enable visualization based on [Streamlit](https://docs.streamlit.io).
 
-![guard_prisoner](guard_prisoner.png)
+![guard_prisoner](imgs/guard_prisoner.png)
 
