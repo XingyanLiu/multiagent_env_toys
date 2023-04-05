@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+.idea/
+.DS_Store
+.ipynb_checkpoints/
+*/.Rhistory
+
+/notebooks/_tmp*
+/notebooks/.ipynb_checkpoints
+
+/_temp/
+/_case_res*/
+/_ref/
+/STARmap/
+codetest*
+
+/Data/
+ref_gym/
+
+/DATASET_NAMES.py
+_tmp*
+code_test*
+
+# Distribution / packaging
+.Python
+build/
+*.egg-info/
+dist/
+
